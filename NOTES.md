@@ -11,4 +11,6 @@
 - page size, margins and bleeds
 - embedding and outlining fonts in a PDF
 - imposition
+- add a text frame and write
+- add an image frame and load an image (external)
 - italic and bold
