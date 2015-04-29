@@ -13,4 +13,4 @@
 - imposition
 - add a text frame and write
 - add an image frame and load an image (external)
-- italic and bold
+- italic and bold (with an explanation of the matching terms... slanted, ... "bold" means "gras"...)
