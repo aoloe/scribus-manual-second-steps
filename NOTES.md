@@ -11,3 +11,4 @@
 - page size, margins and bleeds
 - embedding and outlining fonts in a PDF
 - imposition
+- italic and bold
