@@ -15,3 +15,8 @@
 - add an image frame and load an image (external)
 - italic and bold (with an explanation of the matching terms... slanted, ... "bold" means "gras"...)
 - don't print, make a pdf and print it
+- pages: scribus does not dynamically add the pages
+  - define the number of pages at document creation (for shorter brochures)
+  - adding the pages from the `page > insert` menu.
+  - facing pages: defined in the `file > new` dialog or in `file > document settings`; first left / right
+  - page numbers: add from menu into a text frame on the master page. (adding pages numbers / running headers would be a good tutorial for working with master pages / scrapbook / ...)
