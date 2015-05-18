@@ -21,3 +21,5 @@
   - facing pages: defined in the `file > new` dialog or in `file > document settings`; first left / right
   - page numbers: add from menu into a text frame on the master page. (adding pages numbers / running headers would be a good tutorial for working with master pages / scrapbook / ...)
 - don't print: create a pdf and then print it.
+- transparencies: if you have transparencies, you have to very careful when creating the pdf. you have to check that the pdf version you have chosen does support transparencies (hint: use the right pdf version in the preflight verifier (the dialog that pops up when creating the pdf): you will then know if the transparencies are a problem or not). if you're distributing the PDF through the internet, and you have to know that not all the pdf viewers support transparencies. and not all print shops support transparencies either... even if they say that they accept PDFs with transparencies in them. ah, and last but not least, scribus cannot flatten the transparencies, but will leave them in the PDF, if the PDF version you use allows transparencies.
+
