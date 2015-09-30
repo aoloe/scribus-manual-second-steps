@@ -25,3 +25,15 @@
   - in the preferences choose your main language for both the spelling and the hyphenation
   - spelling dictionaries can be downloaded through the preferences dialog. on debian and ubuntu (and probably most unix system, you should rather install the wanted hunspell dictionaries through your package manager)
   - hyphenation dictionaries should be provided by scribus or, on debian and ubuntu, can be added from the package manager by installing the `hyphen-languagecode` packages.
+changing the preferences is for
+
+## preferences and document settings
+- preferences that are independent from the current document (like the
+  UI language)
+- settings for the documents that you will be creating in the future
+
+the preferences dialog mostly behaves the same, if a document is open or
+not (except for things like manipulating the list of fonts, iirc)
+
+on the other side, changes in the "document setup" only apply to the
+current document.
