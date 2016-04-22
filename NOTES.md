@@ -37,3 +37,13 @@ not (except for things like manipulating the list of fonts, iirc)
 
 on the other side, changes in the "document setup" only apply to the
 current document.
+
+## Gloassary
+
+Some concept you can look up to feel at home
+
+### Master pages
+
+In Scribus, Master Pages are some sort of "page backgrounds". They're not really much more than that, although you can also use them to apply the same guides to different pages.
+
+Starting from Scribus 1.6, you can interleave layer from Master Pages with the ones on the pages.
