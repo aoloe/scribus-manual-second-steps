@@ -47,3 +47,19 @@ Some concept you can look up to feel at home
 In Scribus, Master Pages are some sort of "page backgrounds". They're not really much more than that, although you can also use them to apply the same guides to different pages.
 
 Starting from Scribus 1.6, you can interleave layer from Master Pages with the ones on the pages.
+
+## Editing and formatting text
+
+[GarryP says in the forums](http://forums.scribus.net/index.php/topic,2249.msg10304.html#msg10304):
+
+The first thing I can say is that you should leave the Properties Palette open at all times. Once it's open don't close it. It remains active while you edit your document and the available tools change according to what you have selected. (If it makes things easier to understand you can think of the Properties Palette as an "Object Inspector".) I don't really know why the PP can be closed as Scribus isn't usable - in any meaningful way - if it's not open.
+
+The next thing to say is that text formatting changes are easy (if you keep the PP open). First, don't use the Story Editor; it's not very good for most purposes. It has its uses in some circumstances but - for most use cases - it's pretty bad. Use inline editing instead. Inline editing means making changes within the text frame itself.
+
+To make formatting changes to the whole of the text in the text frame just select the frame and use the PP Text tab options/tools to make the changes necessary.
+
+To make formatting changes to specific text within a text frame, double-click the frame to enter inline editing mode. When you're in this mode, select the text you want to change - as you would do with any word processing software - and use the PP Text tab to make the changes in the same way as you would to change the formatting of the whole text as mentioned above.
+
+See the attached "video" where changes are first made at a 'frame level' then, after a double-click, at a 'character level'.
+
+Once you're comfortable making formatting changes this way I would suggest looking at learning about Styles which make formatting changes much quicker when you need to make changes at a 'document level'.
