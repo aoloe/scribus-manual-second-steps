@@ -8,7 +8,7 @@
   - changing page
 - raster and vector images
 - master pages, guides and the scrapbook
-- page size, margins and bleeds
+- page size, margins and bleeds, orientation
 - embedding and outlining fonts in a PDF
 - imposition
 - add a text frame and write
