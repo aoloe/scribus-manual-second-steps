@@ -63,3 +63,7 @@ To make formatting changes to specific text within a text frame, double-click th
 See the attached "video" where changes are first made at a 'frame level' then, after a double-click, at a 'character level'.
 
 Once you're comfortable making formatting changes this way I would suggest looking at learning about Styles which make formatting changes much quicker when you need to make changes at a 'document level'.
+
+## Good habits
+
+- using grids is a sign of looking for order. In most cases, for layout jobs it's better to use guides.
