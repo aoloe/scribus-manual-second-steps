@@ -67,3 +67,9 @@ Once you're comfortable making formatting changes this way I would suggest looki
 ## Good habits
 
 - using grids is a sign of looking for order. In most cases, for layout jobs it's better to use guides.
+
+## Avoid beginner errors
+
+- If you're doing your first steps with graphics, colors can be a hard topic:
+  - Don't use colors that do not print reliably: gold, and list of a few others...
+- Don't use transparencies, gradients and shadows: print shop still have issues with them.
